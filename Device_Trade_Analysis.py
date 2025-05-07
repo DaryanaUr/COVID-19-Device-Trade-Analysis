@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly.express as px
 
 # Load data
 df = pd.read_csv('data/fake_trade_data.csv')
@@ -31,10 +30,14 @@ plt.show()
 
 # Imports by category and period
 cat_period = df.groupby(['Category', 'Period'])[['Import_Value']].sum().reset_index()
-fig = px.bar(cat_period, x='Category', y='Import_Value', color='Period',
-             title='Imports by Category and Period', barmode='group')
-fig.write_html('plots/imports_by_category.html')
-fig.show()
+plt.figure(figsize=(10,6))
+sns.barplot(data=cat_period, x='Category', y='Import_Value', hue='Period')
+plt.title('Imports by Category and Period')
+plt.ylabel('Import Value (USD)')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig('plots/imports_by_category.png', dpi=300)
+plt.show()
 
 # Top 10 partners by imports in 2020
 top_partners = df[df['Year'] == 2020].groupby('Partner_Country')['Import_Value'].sum().nlargest(10)
