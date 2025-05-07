@@ -7,7 +7,6 @@ This project explores the evolution of **medical device imports and exports in M
 ---
 
 ## 📊 Features
-
 - Classifies data by **pre-pandemic (2017–2019)**, **pandemic (2020–2021)**, and **post-pandemic (2022–2023)** periods.
 - Visualizes changes in:
   - Total import/export values by year.
@@ -18,6 +17,5 @@ This project explores the evolution of **medical device imports and exports in M
 ---
 
 ## 🧰 Requirements
-
 Don't forget to install the required libraries (pandas, numpy, matplotlib, seaborn, plotly).
 
