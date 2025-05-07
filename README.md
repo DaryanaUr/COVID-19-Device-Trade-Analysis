@@ -12,7 +12,7 @@ This project explores the evolution of **medical device imports and exports in M
   - Total import/export values by year.
   - Trade by product category and time period.
   - Top trade partners.
-- Uses Python with **Matplotlib**, **Seaborn**, and **Plotly** for analysis and interactive visualization.
+- Uses Python with **Matplotlib**, **Seaborn** for visualization. We could use **Plotly** for interactive graphics, too.
 
 ---
 
