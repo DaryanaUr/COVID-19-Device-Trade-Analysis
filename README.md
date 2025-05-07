@@ -1,4 +1,4 @@
-# Medical Devices Trade Analysis: COVID-19 Impact on Device Imports and Exports
+# Analysis of the Impact of COVID-19 on Imports and Exports of Medical Devices
 
 This project explores the evolution of **medical device imports and exports in Mexico** before, during, and after the COVID-19 pandemic. It includes tools for **data analysis and visualization**, as well as a script to generate **synthetic trade data** for testing and illustration purposes.
 
