@@ -1,0 +1,1261 @@
+Year,Month,Product,Category,HS_Code,Import_Value,Export_Value,Partner_Country
+2017,1,Ventilator,Respiratory,9018.76,481495,31943,USA
+2017,1,Oxygen Mask,Respiratory,9018.41,465861,188120,India
+2017,1,CPAP Machine,Respiratory,9018.22,168080,174972,Germany
+2017,1,X-Ray Machine,Imaging,9018.75,14577,273932,USA
+2017,1,MRI Scanner,Imaging,9018.76,107079,230200,Japan
+2017,1,Ultrasound,Imaging,9018.31,339052,225478,France
+2017,1,Surgical Mask,PPE,9018.84,98814,94102,France
+2017,1,Face Shield,PPE,9018.93,179488,90348,India
+2017,1,Gloves,PPE,9018.32,45163,296860,India
+2017,1,Syringe,Injection,9018.42,97954,33515,Germany
+2017,1,Needle,Injection,9018.10,448387,65952,China
+2017,1,IV Set,Injection,9018.52,28036,13154,China
+2017,1,Pulse Oximeter,Monitoring,9018.26,415006,140374,France
+2017,1,ECG Monitor,Monitoring,9018.22,83287,45447,USA
+2017,1,Thermometer,Monitoring,9018.20,178473,143173,USA
+2017,2,Ventilator,Respiratory,9018.27,419401,92279,India
+2017,2,Oxygen Mask,Respiratory,9018.59,337284,299870,France
+2017,2,CPAP Machine,Respiratory,9018.81,357167,239324,France
+2017,2,X-Ray Machine,Imaging,9018.13,216712,102948,France
+2017,2,MRI Scanner,Imaging,9018.65,127164,216742,Germany
+2017,2,Ultrasound,Imaging,9018.22,391697,249120,China
+2017,2,Surgical Mask,PPE,9018.38,425878,38365,Germany
+2017,2,Face Shield,PPE,9018.70,352672,26533,France
+2017,2,Gloves,PPE,9018.92,368751,56269,USA
+2017,2,Syringe,Injection,9018.87,435647,96034,France
+2017,2,Needle,Injection,9018.97,498629,114294,India
+2017,2,IV Set,Injection,9018.75,166308,77618,Germany
+2017,2,Pulse Oximeter,Monitoring,9018.32,81040,44388,Germany
+2017,2,ECG Monitor,Monitoring,9018.26,290850,103080,USA
+2017,2,Thermometer,Monitoring,9018.22,135161,211451,Brazil
+2017,3,Ventilator,Respiratory,9018.51,136280,28223,Japan
+2017,3,Oxygen Mask,Respiratory,9018.83,35971,113937,France
+2017,3,CPAP Machine,Respiratory,9018.62,409633,134203,China
+2017,3,X-Ray Machine,Imaging,9018.16,434907,174160,India
+2017,3,MRI Scanner,Imaging,9018.75,23554,12751,India
+2017,3,Ultrasound,Imaging,9018.36,123456,101916,Brazil
+2017,3,Surgical Mask,PPE,9018.77,395236,259466,Germany
+2017,3,Face Shield,PPE,9018.77,459545,151355,Brazil
+2017,3,Gloves,PPE,9018.96,434012,113812,France
+2017,3,Syringe,Injection,9018.87,387543,237193,Germany
+2017,3,Needle,Injection,9018.77,433141,65455,Brazil
+2017,3,IV Set,Injection,9018.78,150379,283037,India
+2017,3,Pulse Oximeter,Monitoring,9018.97,31171,292658,Japan
+2017,3,ECG Monitor,Monitoring,9018.61,344743,227234,Germany
+2017,3,Thermometer,Monitoring,9018.24,444139,123239,Brazil
+2017,4,Ventilator,Respiratory,9018.91,374554,287595,Germany
+2017,4,Oxygen Mask,Respiratory,9018.89,361558,113474,USA
+2017,4,CPAP Machine,Respiratory,9018.87,96133,144874,China
+2017,4,X-Ray Machine,Imaging,9018.59,483816,113602,India
+2017,4,MRI Scanner,Imaging,9018.32,234591,299489,China
+2017,4,Ultrasound,Imaging,9018.28,361815,226186,Germany
+2017,4,Surgical Mask,PPE,9018.50,41597,157808,USA
+2017,4,Face Shield,PPE,9018.75,413959,154639,Brazil
+2017,4,Gloves,PPE,9018.57,315824,75293,Brazil
+2017,4,Syringe,Injection,9018.73,196275,283006,Brazil
+2017,4,Needle,Injection,9018.36,210501,296109,Japan
+2017,4,IV Set,Injection,9018.77,126562,179042,France
+2017,4,Pulse Oximeter,Monitoring,9018.54,474484,52455,Brazil
+2017,4,ECG Monitor,Monitoring,9018.77,13660,283646,USA
+2017,4,Thermometer,Monitoring,9018.54,219833,272876,Brazil
+2017,5,Ventilator,Respiratory,9018.12,289532,197225,France
+2017,5,Oxygen Mask,Respiratory,9018.42,61463,8647,Japan
+2017,5,CPAP Machine,Respiratory,9018.47,61947,214280,China
+2017,5,X-Ray Machine,Imaging,9018.14,393933,101175,USA
+2017,5,MRI Scanner,Imaging,9018.99,435338,186210,Germany
+2017,5,Ultrasound,Imaging,9018.17,431730,88382,USA
+2017,5,Surgical Mask,PPE,9018.96,436297,118010,Brazil
+2017,5,Face Shield,PPE,9018.31,472655,86658,France
+2017,5,Gloves,PPE,9018.55,52387,263360,India
+2017,5,Syringe,Injection,9018.72,361186,24360,Brazil
+2017,5,Needle,Injection,9018.98,225122,225297,Japan
+2017,5,IV Set,Injection,9018.15,473408,121078,India
+2017,5,Pulse Oximeter,Monitoring,9018.66,316636,73580,Japan
+2017,5,ECG Monitor,Monitoring,9018.17,285324,150551,Japan
+2017,5,Thermometer,Monitoring,9018.51,485063,92022,Germany
+2017,6,Ventilator,Respiratory,9018.80,364774,25278,USA
+2017,6,Oxygen Mask,Respiratory,9018.93,380016,79685,Germany
+2017,6,CPAP Machine,Respiratory,9018.20,282197,29868,Germany
+2017,6,X-Ray Machine,Imaging,9018.12,219517,20356,India
+2017,6,MRI Scanner,Imaging,9018.45,63700,219816,India
+2017,6,Ultrasound,Imaging,9018.51,444301,22615,USA
+2017,6,Surgical Mask,PPE,9018.67,158521,153147,Brazil
+2017,6,Face Shield,PPE,9018.74,206904,160096,China
+2017,6,Gloves,PPE,9018.51,383271,176904,Brazil
+2017,6,Syringe,Injection,9018.79,149212,17028,Germany
+2017,6,Needle,Injection,9018.90,220379,291145,France
+2017,6,IV Set,Injection,9018.56,219034,290681,Brazil
+2017,6,Pulse Oximeter,Monitoring,9018.53,197665,13060,Japan
+2017,6,ECG Monitor,Monitoring,9018.30,221626,178399,India
+2017,6,Thermometer,Monitoring,9018.75,62184,72900,India
+2017,7,Ventilator,Respiratory,9018.47,67661,62439,USA
+2017,7,Oxygen Mask,Respiratory,9018.96,145035,79827,China
+2017,7,CPAP Machine,Respiratory,9018.63,72118,204547,Brazil
+2017,7,X-Ray Machine,Imaging,9018.26,421008,67883,Brazil
+2017,7,MRI Scanner,Imaging,9018.34,20073,73144,Germany
+2017,7,Ultrasound,Imaging,9018.22,40120,254016,India
+2017,7,Surgical Mask,PPE,9018.88,33140,201799,Germany
+2017,7,Face Shield,PPE,9018.39,33758,232556,India
+2017,7,Gloves,PPE,9018.97,398399,129324,China
+2017,7,Syringe,Injection,9018.84,181552,71851,USA
+2017,7,Needle,Injection,9018.65,217033,289133,Brazil
+2017,7,IV Set,Injection,9018.22,472541,155868,Japan
+2017,7,Pulse Oximeter,Monitoring,9018.85,420225,214767,India
+2017,7,ECG Monitor,Monitoring,9018.41,475613,5711,USA
+2017,7,Thermometer,Monitoring,9018.79,383615,156941,India
+2017,8,Ventilator,Respiratory,9018.41,487011,84022,Japan
+2017,8,Oxygen Mask,Respiratory,9018.34,23219,110511,China
+2017,8,CPAP Machine,Respiratory,9018.74,412077,176340,USA
+2017,8,X-Ray Machine,Imaging,9018.54,435401,291431,France
+2017,8,MRI Scanner,Imaging,9018.45,283370,82021,France
+2017,8,Ultrasound,Imaging,9018.23,242619,233463,Germany
+2017,8,Surgical Mask,PPE,9018.44,91581,259696,India
+2017,8,Face Shield,PPE,9018.63,177085,252303,USA
+2017,8,Gloves,PPE,9018.23,12856,52244,Germany
+2017,8,Syringe,Injection,9018.47,363743,46105,Japan
+2017,8,Needle,Injection,9018.56,225182,85333,USA
+2017,8,IV Set,Injection,9018.69,125975,88688,Japan
+2017,8,Pulse Oximeter,Monitoring,9018.53,347406,245146,China
+2017,8,ECG Monitor,Monitoring,9018.37,249773,220109,China
+2017,8,Thermometer,Monitoring,9018.82,294202,103235,USA
+2017,9,Ventilator,Respiratory,9018.71,32348,260147,China
+2017,9,Oxygen Mask,Respiratory,9018.94,397398,209806,Brazil
+2017,9,CPAP Machine,Respiratory,9018.16,173417,85229,Japan
+2017,9,X-Ray Machine,Imaging,9018.85,496577,40135,USA
+2017,9,MRI Scanner,Imaging,9018.25,38947,155441,Japan
+2017,9,Ultrasound,Imaging,9018.51,366454,154639,Germany
+2017,9,Surgical Mask,PPE,9018.58,368640,148826,Brazil
+2017,9,Face Shield,PPE,9018.57,71049,46360,Japan
+2017,9,Gloves,PPE,9018.53,24556,160506,Japan
+2017,9,Syringe,Injection,9018.96,51685,164730,Brazil
+2017,9,Needle,Injection,9018.76,16266,71294,Brazil
+2017,9,IV Set,Injection,9018.77,76105,74722,Japan
+2017,9,Pulse Oximeter,Monitoring,9018.96,81107,53469,France
+2017,9,ECG Monitor,Monitoring,9018.11,70069,260491,Brazil
+2017,9,Thermometer,Monitoring,9018.30,12017,95334,India
+2017,10,Ventilator,Respiratory,9018.70,123075,84307,USA
+2017,10,Oxygen Mask,Respiratory,9018.43,493004,213929,USA
+2017,10,CPAP Machine,Respiratory,9018.73,35236,277458,USA
+2017,10,X-Ray Machine,Imaging,9018.35,463031,73941,Japan
+2017,10,MRI Scanner,Imaging,9018.55,188584,251891,Japan
+2017,10,Ultrasound,Imaging,9018.52,459452,74967,Brazil
+2017,10,Surgical Mask,PPE,9018.63,314047,259947,India
+2017,10,Face Shield,PPE,9018.40,360849,65374,Japan
+2017,10,Gloves,PPE,9018.88,97195,240087,Germany
+2017,10,Syringe,Injection,9018.99,273367,283269,China
+2017,10,Needle,Injection,9018.23,471950,170098,India
+2017,10,IV Set,Injection,9018.43,453350,121103,France
+2017,10,Pulse Oximeter,Monitoring,9018.19,331857,218537,India
+2017,10,ECG Monitor,Monitoring,9018.60,59921,97632,Japan
+2017,10,Thermometer,Monitoring,9018.87,105886,223884,France
+2017,11,Ventilator,Respiratory,9018.24,239365,234105,China
+2017,11,Oxygen Mask,Respiratory,9018.98,141804,110931,Germany
+2017,11,CPAP Machine,Respiratory,9018.61,65013,135194,Germany
+2017,11,X-Ray Machine,Imaging,9018.74,363095,252112,USA
+2017,11,MRI Scanner,Imaging,9018.10,307188,40953,China
+2017,11,Ultrasound,Imaging,9018.18,204514,153436,India
+2017,11,Surgical Mask,PPE,9018.89,356464,189182,Japan
+2017,11,Face Shield,PPE,9018.15,290523,239127,India
+2017,11,Gloves,PPE,9018.10,72149,163010,Japan
+2017,11,Syringe,Injection,9018.17,47143,72108,Brazil
+2017,11,Needle,Injection,9018.78,339186,25186,Japan
+2017,11,IV Set,Injection,9018.63,77409,291893,China
+2017,11,Pulse Oximeter,Monitoring,9018.63,422874,74045,France
+2017,11,ECG Monitor,Monitoring,9018.49,497785,293227,Brazil
+2017,11,Thermometer,Monitoring,9018.72,266625,111359,Japan
+2017,12,Ventilator,Respiratory,9018.58,244476,131516,India
+2017,12,Oxygen Mask,Respiratory,9018.69,312416,5499,France
+2017,12,CPAP Machine,Respiratory,9018.85,126401,168010,Japan
+2017,12,X-Ray Machine,Imaging,9018.26,250128,184868,China
+2017,12,MRI Scanner,Imaging,9018.31,173232,186746,Brazil
+2017,12,Ultrasound,Imaging,9018.22,69294,247654,France
+2017,12,Surgical Mask,PPE,9018.32,261026,62791,France
+2017,12,Face Shield,PPE,9018.74,93029,45276,USA
+2017,12,Gloves,PPE,9018.26,435192,245620,Brazil
+2017,12,Syringe,Injection,9018.87,114446,297878,Germany
+2017,12,Needle,Injection,9018.22,327329,169431,Germany
+2017,12,IV Set,Injection,9018.81,276152,31119,Japan
+2017,12,Pulse Oximeter,Monitoring,9018.94,244113,273926,Germany
+2017,12,ECG Monitor,Monitoring,9018.30,408832,73854,India
+2017,12,Thermometer,Monitoring,9018.35,315053,14908,Brazil
+2018,1,Ventilator,Respiratory,9018.77,149959,108190,USA
+2018,1,Oxygen Mask,Respiratory,9018.64,304192,79001,USA
+2018,1,CPAP Machine,Respiratory,9018.39,267916,138488,China
+2018,1,X-Ray Machine,Imaging,9018.86,133551,298196,France
+2018,1,MRI Scanner,Imaging,9018.20,189516,111957,China
+2018,1,Ultrasound,Imaging,9018.59,199025,7283,USA
+2018,1,Surgical Mask,PPE,9018.63,327871,130042,India
+2018,1,Face Shield,PPE,9018.54,253954,153821,Brazil
+2018,1,Gloves,PPE,9018.57,431059,26551,France
+2018,1,Syringe,Injection,9018.74,215147,243237,China
+2018,1,Needle,Injection,9018.89,53552,49574,Japan
+2018,1,IV Set,Injection,9018.47,318391,216149,USA
+2018,1,Pulse Oximeter,Monitoring,9018.37,443576,207436,India
+2018,1,ECG Monitor,Monitoring,9018.76,132464,112476,France
+2018,1,Thermometer,Monitoring,9018.90,194571,30748,India
+2018,2,Ventilator,Respiratory,9018.46,96479,276088,Japan
+2018,2,Oxygen Mask,Respiratory,9018.16,364839,97989,USA
+2018,2,CPAP Machine,Respiratory,9018.32,366080,111166,Germany
+2018,2,X-Ray Machine,Imaging,9018.83,283491,40574,USA
+2018,2,MRI Scanner,Imaging,9018.21,237464,58695,France
+2018,2,Ultrasound,Imaging,9018.32,232978,205690,Germany
+2018,2,Surgical Mask,PPE,9018.75,182883,160957,Japan
+2018,2,Face Shield,PPE,9018.25,466246,15155,USA
+2018,2,Gloves,PPE,9018.61,396115,112749,Brazil
+2018,2,Syringe,Injection,9018.73,403810,242696,China
+2018,2,Needle,Injection,9018.93,91017,176379,France
+2018,2,IV Set,Injection,9018.72,155307,299240,Brazil
+2018,2,Pulse Oximeter,Monitoring,9018.34,480725,74426,China
+2018,2,ECG Monitor,Monitoring,9018.53,440663,112642,USA
+2018,2,Thermometer,Monitoring,9018.58,206136,222297,India
+2018,3,Ventilator,Respiratory,9018.38,195959,175097,Germany
+2018,3,Oxygen Mask,Respiratory,9018.88,18758,222108,China
+2018,3,CPAP Machine,Respiratory,9018.38,391949,76789,USA
+2018,3,X-Ray Machine,Imaging,9018.52,436790,297053,China
+2018,3,MRI Scanner,Imaging,9018.92,197707,141319,USA
+2018,3,Ultrasound,Imaging,9018.63,490245,59345,China
+2018,3,Surgical Mask,PPE,9018.89,308757,38357,USA
+2018,3,Face Shield,PPE,9018.19,33261,240141,Japan
+2018,3,Gloves,PPE,9018.16,239386,132690,Japan
+2018,3,Syringe,Injection,9018.22,225257,284535,Germany
+2018,3,Needle,Injection,9018.45,115667,267608,Germany
+2018,3,IV Set,Injection,9018.97,87047,143279,Germany
+2018,3,Pulse Oximeter,Monitoring,9018.71,320545,216755,Brazil
+2018,3,ECG Monitor,Monitoring,9018.72,421335,160933,India
+2018,3,Thermometer,Monitoring,9018.72,485121,9109,USA
+2018,4,Ventilator,Respiratory,9018.76,211244,140393,USA
+2018,4,Oxygen Mask,Respiratory,9018.57,218794,198870,Germany
+2018,4,CPAP Machine,Respiratory,9018.35,159618,205099,India
+2018,4,X-Ray Machine,Imaging,9018.23,316035,288890,Brazil
+2018,4,MRI Scanner,Imaging,9018.62,419918,279963,USA
+2018,4,Ultrasound,Imaging,9018.51,405163,261145,USA
+2018,4,Surgical Mask,PPE,9018.13,249939,117889,Germany
+2018,4,Face Shield,PPE,9018.85,351472,88454,USA
+2018,4,Gloves,PPE,9018.93,298468,262520,Brazil
+2018,4,Syringe,Injection,9018.80,196371,262531,Germany
+2018,4,Needle,Injection,9018.87,404130,14870,USA
+2018,4,IV Set,Injection,9018.45,87816,219095,China
+2018,4,Pulse Oximeter,Monitoring,9018.60,470416,153849,France
+2018,4,ECG Monitor,Monitoring,9018.81,106195,19515,France
+2018,4,Thermometer,Monitoring,9018.87,203897,245218,China
+2018,5,Ventilator,Respiratory,9018.65,482168,177311,Germany
+2018,5,Oxygen Mask,Respiratory,9018.37,311435,212990,Brazil
+2018,5,CPAP Machine,Respiratory,9018.90,175630,218754,Germany
+2018,5,X-Ray Machine,Imaging,9018.74,319685,16554,USA
+2018,5,MRI Scanner,Imaging,9018.83,360484,35419,Germany
+2018,5,Ultrasound,Imaging,9018.36,34949,72969,China
+2018,5,Surgical Mask,PPE,9018.39,362855,109982,China
+2018,5,Face Shield,PPE,9018.49,213804,269943,India
+2018,5,Gloves,PPE,9018.31,213685,151540,India
+2018,5,Syringe,Injection,9018.49,48512,180633,Brazil
+2018,5,Needle,Injection,9018.53,224158,66971,China
+2018,5,IV Set,Injection,9018.28,105040,10130,Germany
+2018,5,Pulse Oximeter,Monitoring,9018.28,94400,25334,China
+2018,5,ECG Monitor,Monitoring,9018.96,459278,169290,India
+2018,5,Thermometer,Monitoring,9018.26,294314,240290,France
+2018,6,Ventilator,Respiratory,9018.29,95929,119055,France
+2018,6,Oxygen Mask,Respiratory,9018.46,86960,142622,USA
+2018,6,CPAP Machine,Respiratory,9018.27,175730,260448,Japan
+2018,6,X-Ray Machine,Imaging,9018.33,134136,23233,India
+2018,6,MRI Scanner,Imaging,9018.31,352097,61139,Brazil
+2018,6,Ultrasound,Imaging,9018.46,492976,32579,Brazil
+2018,6,Surgical Mask,PPE,9018.55,145626,271801,China
+2018,6,Face Shield,PPE,9018.57,205611,149682,India
+2018,6,Gloves,PPE,9018.75,263949,293050,Germany
+2018,6,Syringe,Injection,9018.96,180848,247837,China
+2018,6,Needle,Injection,9018.72,481403,298123,Brazil
+2018,6,IV Set,Injection,9018.17,23028,97522,China
+2018,6,Pulse Oximeter,Monitoring,9018.14,202315,83613,Germany
+2018,6,ECG Monitor,Monitoring,9018.99,449776,114394,France
+2018,6,Thermometer,Monitoring,9018.61,336974,57730,China
+2018,7,Ventilator,Respiratory,9018.16,196071,232891,Japan
+2018,7,Oxygen Mask,Respiratory,9018.27,366532,44464,Brazil
+2018,7,CPAP Machine,Respiratory,9018.70,232435,170214,Japan
+2018,7,X-Ray Machine,Imaging,9018.66,402520,260382,India
+2018,7,MRI Scanner,Imaging,9018.84,416163,30167,Germany
+2018,7,Ultrasound,Imaging,9018.52,371208,200339,Japan
+2018,7,Surgical Mask,PPE,9018.49,17303,99120,China
+2018,7,Face Shield,PPE,9018.40,418122,200191,France
+2018,7,Gloves,PPE,9018.96,397511,235927,India
+2018,7,Syringe,Injection,9018.74,234185,57312,India
+2018,7,Needle,Injection,9018.64,380359,27112,USA
+2018,7,IV Set,Injection,9018.67,372067,129230,Germany
+2018,7,Pulse Oximeter,Monitoring,9018.94,432683,77375,Germany
+2018,7,ECG Monitor,Monitoring,9018.96,290778,59736,Germany
+2018,7,Thermometer,Monitoring,9018.28,284417,5003,USA
+2018,8,Ventilator,Respiratory,9018.15,234987,58245,USA
+2018,8,Oxygen Mask,Respiratory,9018.44,80793,140269,China
+2018,8,CPAP Machine,Respiratory,9018.52,373859,56570,India
+2018,8,X-Ray Machine,Imaging,9018.35,292846,9758,China
+2018,8,MRI Scanner,Imaging,9018.91,278496,159607,Japan
+2018,8,Ultrasound,Imaging,9018.68,245134,75692,Japan
+2018,8,Surgical Mask,PPE,9018.32,49206,11711,India
+2018,8,Face Shield,PPE,9018.41,190026,277369,Germany
+2018,8,Gloves,PPE,9018.51,277544,74983,India
+2018,8,Syringe,Injection,9018.45,174855,173623,India
+2018,8,Needle,Injection,9018.27,236000,291861,China
+2018,8,IV Set,Injection,9018.37,269082,265979,Germany
+2018,8,Pulse Oximeter,Monitoring,9018.72,207013,129184,Brazil
+2018,8,ECG Monitor,Monitoring,9018.15,289319,223570,USA
+2018,8,Thermometer,Monitoring,9018.97,366646,126964,Brazil
+2018,9,Ventilator,Respiratory,9018.57,281181,52110,Japan
+2018,9,Oxygen Mask,Respiratory,9018.34,218893,22982,Brazil
+2018,9,CPAP Machine,Respiratory,9018.46,461398,240672,China
+2018,9,X-Ray Machine,Imaging,9018.48,310233,29024,Germany
+2018,9,MRI Scanner,Imaging,9018.48,122644,231197,Germany
+2018,9,Ultrasound,Imaging,9018.15,157703,262512,Germany
+2018,9,Surgical Mask,PPE,9018.10,213344,227656,France
+2018,9,Face Shield,PPE,9018.81,279104,139711,Brazil
+2018,9,Gloves,PPE,9018.80,179891,166610,China
+2018,9,Syringe,Injection,9018.46,329094,121553,France
+2018,9,Needle,Injection,9018.80,153136,44072,India
+2018,9,IV Set,Injection,9018.36,19253,89946,Brazil
+2018,9,Pulse Oximeter,Monitoring,9018.64,103427,147310,France
+2018,9,ECG Monitor,Monitoring,9018.43,451522,51179,Brazil
+2018,9,Thermometer,Monitoring,9018.99,192776,168044,India
+2018,10,Ventilator,Respiratory,9018.57,150444,19410,Brazil
+2018,10,Oxygen Mask,Respiratory,9018.80,481519,196115,China
+2018,10,CPAP Machine,Respiratory,9018.78,80898,231909,Germany
+2018,10,X-Ray Machine,Imaging,9018.86,289564,267229,Brazil
+2018,10,MRI Scanner,Imaging,9018.21,479014,275358,Brazil
+2018,10,Ultrasound,Imaging,9018.19,320923,271708,Germany
+2018,10,Surgical Mask,PPE,9018.32,311458,242682,Japan
+2018,10,Face Shield,PPE,9018.14,294064,116813,Brazil
+2018,10,Gloves,PPE,9018.61,459388,39589,Japan
+2018,10,Syringe,Injection,9018.98,436224,90643,Brazil
+2018,10,Needle,Injection,9018.59,179747,260698,USA
+2018,10,IV Set,Injection,9018.10,339983,115667,Germany
+2018,10,Pulse Oximeter,Monitoring,9018.31,70363,127095,France
+2018,10,ECG Monitor,Monitoring,9018.68,157034,112304,Germany
+2018,10,Thermometer,Monitoring,9018.83,82480,274412,Germany
+2018,11,Ventilator,Respiratory,9018.94,281425,86659,Germany
+2018,11,Oxygen Mask,Respiratory,9018.80,466164,287404,India
+2018,11,CPAP Machine,Respiratory,9018.38,381714,60629,Germany
+2018,11,X-Ray Machine,Imaging,9018.49,462223,113174,China
+2018,11,MRI Scanner,Imaging,9018.83,90816,117605,France
+2018,11,Ultrasound,Imaging,9018.22,461168,270046,Japan
+2018,11,Surgical Mask,PPE,9018.67,78662,149953,Brazil
+2018,11,Face Shield,PPE,9018.57,112704,219747,USA
+2018,11,Gloves,PPE,9018.57,413199,277641,Germany
+2018,11,Syringe,Injection,9018.78,449473,134874,Japan
+2018,11,Needle,Injection,9018.95,289462,187507,Japan
+2018,11,IV Set,Injection,9018.36,140815,128946,Japan
+2018,11,Pulse Oximeter,Monitoring,9018.65,89114,245994,Brazil
+2018,11,ECG Monitor,Monitoring,9018.26,320268,154131,Germany
+2018,11,Thermometer,Monitoring,9018.94,199968,34074,Germany
+2018,12,Ventilator,Respiratory,9018.74,451257,18831,China
+2018,12,Oxygen Mask,Respiratory,9018.49,394252,293401,Japan
+2018,12,CPAP Machine,Respiratory,9018.96,208876,120013,Brazil
+2018,12,X-Ray Machine,Imaging,9018.75,269042,287840,Germany
+2018,12,MRI Scanner,Imaging,9018.89,441913,290046,Japan
+2018,12,Ultrasound,Imaging,9018.66,214233,16205,Germany
+2018,12,Surgical Mask,PPE,9018.61,234566,55304,China
+2018,12,Face Shield,PPE,9018.42,450503,276010,Brazil
+2018,12,Gloves,PPE,9018.14,368444,153874,France
+2018,12,Syringe,Injection,9018.58,37472,194598,Japan
+2018,12,Needle,Injection,9018.96,212741,275780,USA
+2018,12,IV Set,Injection,9018.24,185648,243723,USA
+2018,12,Pulse Oximeter,Monitoring,9018.24,145754,235385,France
+2018,12,ECG Monitor,Monitoring,9018.34,185601,266751,France
+2018,12,Thermometer,Monitoring,9018.83,143610,147813,Brazil
+2019,1,Ventilator,Respiratory,9018.65,11789,28862,Brazil
+2019,1,Oxygen Mask,Respiratory,9018.67,176018,138859,France
+2019,1,CPAP Machine,Respiratory,9018.70,255866,172367,Germany
+2019,1,X-Ray Machine,Imaging,9018.55,31970,235981,China
+2019,1,MRI Scanner,Imaging,9018.92,334836,165602,Japan
+2019,1,Ultrasound,Imaging,9018.59,451000,24686,Brazil
+2019,1,Surgical Mask,PPE,9018.27,109549,245982,Japan
+2019,1,Face Shield,PPE,9018.39,138670,166372,India
+2019,1,Gloves,PPE,9018.71,313000,249535,France
+2019,1,Syringe,Injection,9018.21,227869,119228,France
+2019,1,Needle,Injection,9018.86,145311,206942,India
+2019,1,IV Set,Injection,9018.91,400257,150934,France
+2019,1,Pulse Oximeter,Monitoring,9018.24,299710,17255,Japan
+2019,1,ECG Monitor,Monitoring,9018.27,23252,158798,Brazil
+2019,1,Thermometer,Monitoring,9018.49,94274,212162,Brazil
+2019,2,Ventilator,Respiratory,9018.60,24392,239399,Brazil
+2019,2,Oxygen Mask,Respiratory,9018.18,83056,109793,USA
+2019,2,CPAP Machine,Respiratory,9018.79,89097,224235,China
+2019,2,X-Ray Machine,Imaging,9018.30,417222,110299,Japan
+2019,2,MRI Scanner,Imaging,9018.86,478319,12796,USA
+2019,2,Ultrasound,Imaging,9018.67,272921,24342,India
+2019,2,Surgical Mask,PPE,9018.75,453190,60789,France
+2019,2,Face Shield,PPE,9018.90,134012,191803,China
+2019,2,Gloves,PPE,9018.88,155414,75164,Germany
+2019,2,Syringe,Injection,9018.86,278831,136963,USA
+2019,2,Needle,Injection,9018.92,187694,191146,India
+2019,2,IV Set,Injection,9018.84,27705,35714,USA
+2019,2,Pulse Oximeter,Monitoring,9018.25,117764,94560,India
+2019,2,ECG Monitor,Monitoring,9018.37,488218,127893,USA
+2019,2,Thermometer,Monitoring,9018.59,131315,273191,Brazil
+2019,3,Ventilator,Respiratory,9018.51,72703,96125,USA
+2019,3,Oxygen Mask,Respiratory,9018.94,186763,220834,Germany
+2019,3,CPAP Machine,Respiratory,9018.50,331790,22123,Japan
+2019,3,X-Ray Machine,Imaging,9018.94,466499,235362,Germany
+2019,3,MRI Scanner,Imaging,9018.22,232895,177465,Brazil
+2019,3,Ultrasound,Imaging,9018.63,262625,191115,Japan
+2019,3,Surgical Mask,PPE,9018.94,487905,262365,France
+2019,3,Face Shield,PPE,9018.38,155829,146006,USA
+2019,3,Gloves,PPE,9018.37,128796,131670,France
+2019,3,Syringe,Injection,9018.95,304037,51565,Japan
+2019,3,Needle,Injection,9018.99,175575,76319,USA
+2019,3,IV Set,Injection,9018.55,270595,111227,Brazil
+2019,3,Pulse Oximeter,Monitoring,9018.24,362997,296614,India
+2019,3,ECG Monitor,Monitoring,9018.21,190513,114493,China
+2019,3,Thermometer,Monitoring,9018.73,414776,136411,France
+2019,4,Ventilator,Respiratory,9018.10,51811,21339,China
+2019,4,Oxygen Mask,Respiratory,9018.63,489213,100313,Japan
+2019,4,CPAP Machine,Respiratory,9018.16,16710,171432,India
+2019,4,X-Ray Machine,Imaging,9018.28,467588,285462,Brazil
+2019,4,MRI Scanner,Imaging,9018.24,166016,216221,China
+2019,4,Ultrasound,Imaging,9018.75,407920,21505,Germany
+2019,4,Surgical Mask,PPE,9018.76,334805,95164,USA
+2019,4,Face Shield,PPE,9018.36,407798,43996,Germany
+2019,4,Gloves,PPE,9018.66,360433,298658,USA
+2019,4,Syringe,Injection,9018.28,487810,296087,Germany
+2019,4,Needle,Injection,9018.48,260034,203279,India
+2019,4,IV Set,Injection,9018.42,413719,97161,India
+2019,4,Pulse Oximeter,Monitoring,9018.19,469214,30507,USA
+2019,4,ECG Monitor,Monitoring,9018.76,211471,29093,Japan
+2019,4,Thermometer,Monitoring,9018.65,282537,214083,France
+2019,5,Ventilator,Respiratory,9018.15,309138,193598,Brazil
+2019,5,Oxygen Mask,Respiratory,9018.74,338852,134425,India
+2019,5,CPAP Machine,Respiratory,9018.75,119595,295243,Japan
+2019,5,X-Ray Machine,Imaging,9018.35,494676,254091,USA
+2019,5,MRI Scanner,Imaging,9018.70,354070,75992,China
+2019,5,Ultrasound,Imaging,9018.72,110575,297078,India
+2019,5,Surgical Mask,PPE,9018.36,466115,109919,Japan
+2019,5,Face Shield,PPE,9018.97,319102,75963,USA
+2019,5,Gloves,PPE,9018.81,482032,259898,Japan
+2019,5,Syringe,Injection,9018.27,384949,296551,China
+2019,5,Needle,Injection,9018.59,27477,242839,France
+2019,5,IV Set,Injection,9018.16,363996,12829,China
+2019,5,Pulse Oximeter,Monitoring,9018.11,414602,20406,France
+2019,5,ECG Monitor,Monitoring,9018.17,219686,282224,France
+2019,5,Thermometer,Monitoring,9018.19,224495,52994,China
+2019,6,Ventilator,Respiratory,9018.60,323752,283299,France
+2019,6,Oxygen Mask,Respiratory,9018.11,269939,100926,Japan
+2019,6,CPAP Machine,Respiratory,9018.65,323466,293900,China
+2019,6,X-Ray Machine,Imaging,9018.49,385602,151361,Japan
+2019,6,MRI Scanner,Imaging,9018.28,216247,291104,India
+2019,6,Ultrasound,Imaging,9018.82,360739,259405,Germany
+2019,6,Surgical Mask,PPE,9018.84,30218,117405,Germany
+2019,6,Face Shield,PPE,9018.49,242440,78275,Brazil
+2019,6,Gloves,PPE,9018.45,443621,270195,France
+2019,6,Syringe,Injection,9018.27,49373,47016,France
+2019,6,Needle,Injection,9018.34,491638,28603,India
+2019,6,IV Set,Injection,9018.46,157949,55958,Japan
+2019,6,Pulse Oximeter,Monitoring,9018.66,163049,202708,France
+2019,6,ECG Monitor,Monitoring,9018.37,174584,218889,Brazil
+2019,6,Thermometer,Monitoring,9018.35,96722,244826,USA
+2019,7,Ventilator,Respiratory,9018.35,49936,88140,China
+2019,7,Oxygen Mask,Respiratory,9018.79,435372,83948,Brazil
+2019,7,CPAP Machine,Respiratory,9018.51,285129,298520,China
+2019,7,X-Ray Machine,Imaging,9018.13,116649,209131,China
+2019,7,MRI Scanner,Imaging,9018.83,391428,195727,Brazil
+2019,7,Ultrasound,Imaging,9018.52,279044,26977,Brazil
+2019,7,Surgical Mask,PPE,9018.71,232234,269558,China
+2019,7,Face Shield,PPE,9018.49,168069,82164,France
+2019,7,Gloves,PPE,9018.47,226801,168218,Germany
+2019,7,Syringe,Injection,9018.32,78810,50200,USA
+2019,7,Needle,Injection,9018.47,411038,142879,USA
+2019,7,IV Set,Injection,9018.31,247313,53037,Japan
+2019,7,Pulse Oximeter,Monitoring,9018.74,236698,271269,Japan
+2019,7,ECG Monitor,Monitoring,9018.79,356712,178412,China
+2019,7,Thermometer,Monitoring,9018.53,432270,200233,India
+2019,8,Ventilator,Respiratory,9018.99,176764,165697,China
+2019,8,Oxygen Mask,Respiratory,9018.87,170592,105213,Brazil
+2019,8,CPAP Machine,Respiratory,9018.64,27746,290178,USA
+2019,8,X-Ray Machine,Imaging,9018.34,77659,277353,India
+2019,8,MRI Scanner,Imaging,9018.30,44130,106078,Germany
+2019,8,Ultrasound,Imaging,9018.15,241108,105128,China
+2019,8,Surgical Mask,PPE,9018.66,141172,245834,India
+2019,8,Face Shield,PPE,9018.46,299027,120336,Germany
+2019,8,Gloves,PPE,9018.52,23216,182497,Brazil
+2019,8,Syringe,Injection,9018.81,54975,218887,Brazil
+2019,8,Needle,Injection,9018.66,429279,99036,China
+2019,8,IV Set,Injection,9018.18,241501,11966,Germany
+2019,8,Pulse Oximeter,Monitoring,9018.40,208690,48275,France
+2019,8,ECG Monitor,Monitoring,9018.14,444745,247331,India
+2019,8,Thermometer,Monitoring,9018.42,393038,257727,France
+2019,9,Ventilator,Respiratory,9018.84,432723,60964,France
+2019,9,Oxygen Mask,Respiratory,9018.76,214175,266353,USA
+2019,9,CPAP Machine,Respiratory,9018.80,401484,134145,France
+2019,9,X-Ray Machine,Imaging,9018.87,134933,21008,Brazil
+2019,9,MRI Scanner,Imaging,9018.26,227703,290096,Germany
+2019,9,Ultrasound,Imaging,9018.80,32708,55893,USA
+2019,9,Surgical Mask,PPE,9018.58,426966,79275,Brazil
+2019,9,Face Shield,PPE,9018.27,68546,252023,Brazil
+2019,9,Gloves,PPE,9018.66,297239,233710,USA
+2019,9,Syringe,Injection,9018.54,253745,249189,Germany
+2019,9,Needle,Injection,9018.40,497738,9222,Germany
+2019,9,IV Set,Injection,9018.50,212553,221326,Germany
+2019,9,Pulse Oximeter,Monitoring,9018.59,45154,203298,India
+2019,9,ECG Monitor,Monitoring,9018.69,90594,40103,China
+2019,9,Thermometer,Monitoring,9018.95,389506,70846,India
+2019,10,Ventilator,Respiratory,9018.73,50821,148887,India
+2019,10,Oxygen Mask,Respiratory,9018.98,354243,13575,China
+2019,10,CPAP Machine,Respiratory,9018.34,231123,33881,Germany
+2019,10,X-Ray Machine,Imaging,9018.57,312764,100830,USA
+2019,10,MRI Scanner,Imaging,9018.27,458815,246462,Japan
+2019,10,Ultrasound,Imaging,9018.71,481988,120860,Japan
+2019,10,Surgical Mask,PPE,9018.56,52956,292418,India
+2019,10,Face Shield,PPE,9018.55,496960,197686,France
+2019,10,Gloves,PPE,9018.50,392154,71044,Japan
+2019,10,Syringe,Injection,9018.28,216939,54046,India
+2019,10,Needle,Injection,9018.57,95145,186809,USA
+2019,10,IV Set,Injection,9018.25,383174,141902,Germany
+2019,10,Pulse Oximeter,Monitoring,9018.15,227597,128988,USA
+2019,10,ECG Monitor,Monitoring,9018.98,47624,36005,Japan
+2019,10,Thermometer,Monitoring,9018.35,174666,151812,Japan
+2019,11,Ventilator,Respiratory,9018.80,294191,173005,France
+2019,11,Oxygen Mask,Respiratory,9018.13,237563,212506,Japan
+2019,11,CPAP Machine,Respiratory,9018.26,140714,167701,Brazil
+2019,11,X-Ray Machine,Imaging,9018.17,364716,96974,Japan
+2019,11,MRI Scanner,Imaging,9018.28,184619,128574,China
+2019,11,Ultrasound,Imaging,9018.94,378730,285881,Germany
+2019,11,Surgical Mask,PPE,9018.59,61526,82125,Japan
+2019,11,Face Shield,PPE,9018.62,56182,6691,Germany
+2019,11,Gloves,PPE,9018.26,459269,283604,USA
+2019,11,Syringe,Injection,9018.95,129290,29956,China
+2019,11,Needle,Injection,9018.59,271157,258468,China
+2019,11,IV Set,Injection,9018.67,235843,97318,USA
+2019,11,Pulse Oximeter,Monitoring,9018.81,454498,224998,Brazil
+2019,11,ECG Monitor,Monitoring,9018.37,377173,279978,Japan
+2019,11,Thermometer,Monitoring,9018.93,18016,294922,USA
+2019,12,Ventilator,Respiratory,9018.92,83941,281661,Germany
+2019,12,Oxygen Mask,Respiratory,9018.63,454638,119792,Brazil
+2019,12,CPAP Machine,Respiratory,9018.84,111436,221201,Germany
+2019,12,X-Ray Machine,Imaging,9018.33,127344,277408,Japan
+2019,12,MRI Scanner,Imaging,9018.26,125453,38326,France
+2019,12,Ultrasound,Imaging,9018.67,65555,19048,China
+2019,12,Surgical Mask,PPE,9018.76,479395,69339,Germany
+2019,12,Face Shield,PPE,9018.85,133387,86950,France
+2019,12,Gloves,PPE,9018.46,305856,238579,USA
+2019,12,Syringe,Injection,9018.62,449442,190295,Japan
+2019,12,Needle,Injection,9018.75,209232,225359,India
+2019,12,IV Set,Injection,9018.92,236631,263963,India
+2019,12,Pulse Oximeter,Monitoring,9018.90,13915,233840,China
+2019,12,ECG Monitor,Monitoring,9018.46,61871,143331,China
+2019,12,Thermometer,Monitoring,9018.81,177596,144660,Brazil
+2020,1,Ventilator,Respiratory,9018.31,475031,233547,France
+2020,1,Oxygen Mask,Respiratory,9018.70,240161,257365,Japan
+2020,1,CPAP Machine,Respiratory,9018.26,144958,284281,Brazil
+2020,1,X-Ray Machine,Imaging,9018.95,193351,119178,Japan
+2020,1,MRI Scanner,Imaging,9018.64,207023,146652,Brazil
+2020,1,Ultrasound,Imaging,9018.27,49374,45382,Japan
+2020,1,Surgical Mask,PPE,9018.35,140605,259032,France
+2020,1,Face Shield,PPE,9018.65,112745,254253,USA
+2020,1,Gloves,PPE,9018.51,153412,125710,Germany
+2020,1,Syringe,Injection,9018.71,90114,27569,India
+2020,1,Needle,Injection,9018.17,455383,220049,India
+2020,1,IV Set,Injection,9018.10,199713,92022,Japan
+2020,1,Pulse Oximeter,Monitoring,9018.24,56791,117841,China
+2020,1,ECG Monitor,Monitoring,9018.63,170635,26141,Brazil
+2020,1,Thermometer,Monitoring,9018.30,298234,23920,India
+2020,2,Ventilator,Respiratory,9018.96,392522,119753,China
+2020,2,Oxygen Mask,Respiratory,9018.16,484097,175752,Japan
+2020,2,CPAP Machine,Respiratory,9018.49,137437,163433,India
+2020,2,X-Ray Machine,Imaging,9018.70,194249,279508,USA
+2020,2,MRI Scanner,Imaging,9018.48,454471,26231,France
+2020,2,Ultrasound,Imaging,9018.61,282522,248762,Japan
+2020,2,Surgical Mask,PPE,9018.81,297210,138329,France
+2020,2,Face Shield,PPE,9018.57,410643,261644,Japan
+2020,2,Gloves,PPE,9018.90,491507,40026,Brazil
+2020,2,Syringe,Injection,9018.46,381844,196004,China
+2020,2,Needle,Injection,9018.39,344246,171071,France
+2020,2,IV Set,Injection,9018.55,29475,94884,Japan
+2020,2,Pulse Oximeter,Monitoring,9018.80,190210,94887,USA
+2020,2,ECG Monitor,Monitoring,9018.18,419537,36592,Japan
+2020,2,Thermometer,Monitoring,9018.96,126628,217859,Germany
+2020,3,Ventilator,Respiratory,9018.49,131887,133654,China
+2020,3,Oxygen Mask,Respiratory,9018.90,130024,264594,USA
+2020,3,CPAP Machine,Respiratory,9018.92,146586,83008,France
+2020,3,X-Ray Machine,Imaging,9018.33,265614,256103,Japan
+2020,3,MRI Scanner,Imaging,9018.49,103934,34331,India
+2020,3,Ultrasound,Imaging,9018.58,372937,184250,Japan
+2020,3,Surgical Mask,PPE,9018.77,193036,291008,India
+2020,3,Face Shield,PPE,9018.19,273818,182079,USA
+2020,3,Gloves,PPE,9018.85,17292,163056,France
+2020,3,Syringe,Injection,9018.92,126024,113612,China
+2020,3,Needle,Injection,9018.88,396497,54775,Germany
+2020,3,IV Set,Injection,9018.12,361688,251288,Germany
+2020,3,Pulse Oximeter,Monitoring,9018.16,425551,26900,Brazil
+2020,3,ECG Monitor,Monitoring,9018.34,239161,71941,Japan
+2020,3,Thermometer,Monitoring,9018.23,468079,22561,Brazil
+2020,4,Ventilator,Respiratory,9018.47,323167,42821,India
+2020,4,Oxygen Mask,Respiratory,9018.71,122034,109833,Brazil
+2020,4,CPAP Machine,Respiratory,9018.74,191116,156515,Germany
+2020,4,X-Ray Machine,Imaging,9018.11,281454,268706,France
+2020,4,MRI Scanner,Imaging,9018.10,36231,59512,Brazil
+2020,4,Ultrasound,Imaging,9018.31,257678,244759,Germany
+2020,4,Surgical Mask,PPE,9018.35,66447,90999,Germany
+2020,4,Face Shield,PPE,9018.49,392933,70861,Japan
+2020,4,Gloves,PPE,9018.61,469611,13565,France
+2020,4,Syringe,Injection,9018.34,394740,53505,China
+2020,4,Needle,Injection,9018.77,357825,46151,USA
+2020,4,IV Set,Injection,9018.44,55421,289386,France
+2020,4,Pulse Oximeter,Monitoring,9018.36,332221,211217,Brazil
+2020,4,ECG Monitor,Monitoring,9018.43,458437,141414,France
+2020,4,Thermometer,Monitoring,9018.57,172089,157982,India
+2020,5,Ventilator,Respiratory,9018.34,84536,178777,Germany
+2020,5,Oxygen Mask,Respiratory,9018.34,240302,111604,Japan
+2020,5,CPAP Machine,Respiratory,9018.40,269787,43033,India
+2020,5,X-Ray Machine,Imaging,9018.13,198406,49602,Germany
+2020,5,MRI Scanner,Imaging,9018.25,165832,22838,India
+2020,5,Ultrasound,Imaging,9018.16,153024,25467,Brazil
+2020,5,Surgical Mask,PPE,9018.88,374530,50926,Japan
+2020,5,Face Shield,PPE,9018.50,237642,95115,Brazil
+2020,5,Gloves,PPE,9018.66,492157,231643,France
+2020,5,Syringe,Injection,9018.82,89823,165704,Japan
+2020,5,Needle,Injection,9018.99,487780,247584,China
+2020,5,IV Set,Injection,9018.39,485027,66655,USA
+2020,5,Pulse Oximeter,Monitoring,9018.89,72898,278050,France
+2020,5,ECG Monitor,Monitoring,9018.24,190288,82268,France
+2020,5,Thermometer,Monitoring,9018.66,468980,33688,France
+2020,6,Ventilator,Respiratory,9018.51,305387,209027,USA
+2020,6,Oxygen Mask,Respiratory,9018.40,18552,286557,Japan
+2020,6,CPAP Machine,Respiratory,9018.57,367660,96522,Germany
+2020,6,X-Ray Machine,Imaging,9018.38,165394,39220,USA
+2020,6,MRI Scanner,Imaging,9018.18,348043,222714,India
+2020,6,Ultrasound,Imaging,9018.77,91402,127758,Germany
+2020,6,Surgical Mask,PPE,9018.39,93258,83902,Japan
+2020,6,Face Shield,PPE,9018.54,178719,54195,Japan
+2020,6,Gloves,PPE,9018.77,51113,222359,China
+2020,6,Syringe,Injection,9018.25,389335,49858,China
+2020,6,Needle,Injection,9018.70,204956,162650,China
+2020,6,IV Set,Injection,9018.89,173738,26768,Germany
+2020,6,Pulse Oximeter,Monitoring,9018.30,27383,105413,France
+2020,6,ECG Monitor,Monitoring,9018.37,213582,232884,Germany
+2020,6,Thermometer,Monitoring,9018.95,477437,85219,Germany
+2020,7,Ventilator,Respiratory,9018.61,129621,146237,Japan
+2020,7,Oxygen Mask,Respiratory,9018.87,190959,30131,France
+2020,7,CPAP Machine,Respiratory,9018.83,330575,34152,USA
+2020,7,X-Ray Machine,Imaging,9018.27,378793,289357,Brazil
+2020,7,MRI Scanner,Imaging,9018.78,112471,74288,Japan
+2020,7,Ultrasound,Imaging,9018.86,195663,220275,Japan
+2020,7,Surgical Mask,PPE,9018.29,139710,194445,Germany
+2020,7,Face Shield,PPE,9018.11,449616,132877,France
+2020,7,Gloves,PPE,9018.92,474698,207182,Brazil
+2020,7,Syringe,Injection,9018.63,152207,91244,India
+2020,7,Needle,Injection,9018.79,331771,90124,France
+2020,7,IV Set,Injection,9018.87,230554,246939,India
+2020,7,Pulse Oximeter,Monitoring,9018.86,434573,271036,Japan
+2020,7,ECG Monitor,Monitoring,9018.72,93993,95730,India
+2020,7,Thermometer,Monitoring,9018.70,280091,37642,Brazil
+2020,8,Ventilator,Respiratory,9018.47,457787,254056,Germany
+2020,8,Oxygen Mask,Respiratory,9018.51,134256,275041,China
+2020,8,CPAP Machine,Respiratory,9018.84,18589,260570,China
+2020,8,X-Ray Machine,Imaging,9018.78,263785,103980,India
+2020,8,MRI Scanner,Imaging,9018.38,149314,75152,China
+2020,8,Ultrasound,Imaging,9018.77,214568,83622,China
+2020,8,Surgical Mask,PPE,9018.26,293157,209743,China
+2020,8,Face Shield,PPE,9018.21,301056,53171,USA
+2020,8,Gloves,PPE,9018.43,329022,181856,Japan
+2020,8,Syringe,Injection,9018.98,318732,38846,Germany
+2020,8,Needle,Injection,9018.34,479082,32653,France
+2020,8,IV Set,Injection,9018.39,496328,228871,Brazil
+2020,8,Pulse Oximeter,Monitoring,9018.68,302102,71435,France
+2020,8,ECG Monitor,Monitoring,9018.57,273239,217488,India
+2020,8,Thermometer,Monitoring,9018.82,409710,257582,Japan
+2020,9,Ventilator,Respiratory,9018.67,491043,235013,Japan
+2020,9,Oxygen Mask,Respiratory,9018.68,302602,138689,India
+2020,9,CPAP Machine,Respiratory,9018.16,195426,49397,USA
+2020,9,X-Ray Machine,Imaging,9018.27,230931,297528,Germany
+2020,9,MRI Scanner,Imaging,9018.34,465818,24707,Japan
+2020,9,Ultrasound,Imaging,9018.70,48395,250570,Germany
+2020,9,Surgical Mask,PPE,9018.86,489607,180695,China
+2020,9,Face Shield,PPE,9018.80,162723,75892,France
+2020,9,Gloves,PPE,9018.50,337720,125330,Brazil
+2020,9,Syringe,Injection,9018.78,44775,134806,France
+2020,9,Needle,Injection,9018.92,12689,187491,France
+2020,9,IV Set,Injection,9018.71,474143,87451,Brazil
+2020,9,Pulse Oximeter,Monitoring,9018.23,43185,38093,Germany
+2020,9,ECG Monitor,Monitoring,9018.48,341630,50707,China
+2020,9,Thermometer,Monitoring,9018.89,36103,197733,USA
+2020,10,Ventilator,Respiratory,9018.13,158374,12326,Brazil
+2020,10,Oxygen Mask,Respiratory,9018.71,282818,24790,Brazil
+2020,10,CPAP Machine,Respiratory,9018.23,10313,243364,India
+2020,10,X-Ray Machine,Imaging,9018.73,424159,239553,China
+2020,10,MRI Scanner,Imaging,9018.74,231497,25067,USA
+2020,10,Ultrasound,Imaging,9018.25,217912,65436,Brazil
+2020,10,Surgical Mask,PPE,9018.45,32903,178466,China
+2020,10,Face Shield,PPE,9018.19,388619,209906,Brazil
+2020,10,Gloves,PPE,9018.16,260558,117934,Germany
+2020,10,Syringe,Injection,9018.10,351788,279050,Brazil
+2020,10,Needle,Injection,9018.87,368718,264932,India
+2020,10,IV Set,Injection,9018.56,50329,252533,Germany
+2020,10,Pulse Oximeter,Monitoring,9018.24,202483,86441,Japan
+2020,10,ECG Monitor,Monitoring,9018.50,189625,138314,India
+2020,10,Thermometer,Monitoring,9018.63,90955,175080,India
+2020,11,Ventilator,Respiratory,9018.68,10809,68183,Japan
+2020,11,Oxygen Mask,Respiratory,9018.38,448665,284868,Brazil
+2020,11,CPAP Machine,Respiratory,9018.88,192869,120989,USA
+2020,11,X-Ray Machine,Imaging,9018.91,456797,78869,USA
+2020,11,MRI Scanner,Imaging,9018.95,11225,229187,India
+2020,11,Ultrasound,Imaging,9018.95,184622,198588,India
+2020,11,Surgical Mask,PPE,9018.83,257388,10604,Japan
+2020,11,Face Shield,PPE,9018.35,146463,232713,Germany
+2020,11,Gloves,PPE,9018.32,211763,197208,Japan
+2020,11,Syringe,Injection,9018.51,415793,216040,France
+2020,11,Needle,Injection,9018.54,26044,88919,Brazil
+2020,11,IV Set,Injection,9018.26,294289,299820,China
+2020,11,Pulse Oximeter,Monitoring,9018.86,147131,131579,India
+2020,11,ECG Monitor,Monitoring,9018.40,230106,133848,Brazil
+2020,11,Thermometer,Monitoring,9018.43,133016,220033,France
+2020,12,Ventilator,Respiratory,9018.65,474490,184978,Germany
+2020,12,Oxygen Mask,Respiratory,9018.93,158549,17398,Germany
+2020,12,CPAP Machine,Respiratory,9018.79,68071,161882,China
+2020,12,X-Ray Machine,Imaging,9018.79,254329,293090,India
+2020,12,MRI Scanner,Imaging,9018.35,155182,57782,Brazil
+2020,12,Ultrasound,Imaging,9018.70,175835,242560,USA
+2020,12,Surgical Mask,PPE,9018.39,37029,141139,Japan
+2020,12,Face Shield,PPE,9018.91,390136,220152,Japan
+2020,12,Gloves,PPE,9018.70,337385,76970,Germany
+2020,12,Syringe,Injection,9018.22,170958,146800,Japan
+2020,12,Needle,Injection,9018.70,145592,18384,USA
+2020,12,IV Set,Injection,9018.63,409958,209651,France
+2020,12,Pulse Oximeter,Monitoring,9018.89,159852,203266,Japan
+2020,12,ECG Monitor,Monitoring,9018.66,51367,74782,China
+2020,12,Thermometer,Monitoring,9018.73,381359,91246,Japan
+2021,1,Ventilator,Respiratory,9018.14,56253,125728,Brazil
+2021,1,Oxygen Mask,Respiratory,9018.26,192852,95364,USA
+2021,1,CPAP Machine,Respiratory,9018.93,163450,15470,Germany
+2021,1,X-Ray Machine,Imaging,9018.35,293353,143583,Germany
+2021,1,MRI Scanner,Imaging,9018.26,422714,32319,France
+2021,1,Ultrasound,Imaging,9018.39,347039,201786,France
+2021,1,Surgical Mask,PPE,9018.95,365519,162195,USA
+2021,1,Face Shield,PPE,9018.93,403318,244616,France
+2021,1,Gloves,PPE,9018.43,354956,115755,USA
+2021,1,Syringe,Injection,9018.47,438535,193288,China
+2021,1,Needle,Injection,9018.98,356088,246719,India
+2021,1,IV Set,Injection,9018.98,269730,179655,USA
+2021,1,Pulse Oximeter,Monitoring,9018.37,159478,287300,Germany
+2021,1,ECG Monitor,Monitoring,9018.46,297046,155763,USA
+2021,1,Thermometer,Monitoring,9018.22,62535,173477,India
+2021,2,Ventilator,Respiratory,9018.45,407935,64790,Japan
+2021,2,Oxygen Mask,Respiratory,9018.20,92029,222042,Japan
+2021,2,CPAP Machine,Respiratory,9018.19,432055,194496,Brazil
+2021,2,X-Ray Machine,Imaging,9018.96,458891,282030,France
+2021,2,MRI Scanner,Imaging,9018.18,463981,200414,China
+2021,2,Ultrasound,Imaging,9018.21,435611,63385,France
+2021,2,Surgical Mask,PPE,9018.85,309529,138069,Brazil
+2021,2,Face Shield,PPE,9018.93,488542,7548,USA
+2021,2,Gloves,PPE,9018.85,431936,259954,Germany
+2021,2,Syringe,Injection,9018.86,13691,56244,India
+2021,2,Needle,Injection,9018.68,231567,149726,India
+2021,2,IV Set,Injection,9018.90,342473,77307,Germany
+2021,2,Pulse Oximeter,Monitoring,9018.49,410530,37117,Japan
+2021,2,ECG Monitor,Monitoring,9018.58,224983,234963,Germany
+2021,2,Thermometer,Monitoring,9018.32,256152,115956,USA
+2021,3,Ventilator,Respiratory,9018.44,14453,295282,Japan
+2021,3,Oxygen Mask,Respiratory,9018.77,268307,214553,India
+2021,3,CPAP Machine,Respiratory,9018.79,349216,104455,France
+2021,3,X-Ray Machine,Imaging,9018.21,394322,225332,Japan
+2021,3,MRI Scanner,Imaging,9018.90,200209,235668,France
+2021,3,Ultrasound,Imaging,9018.10,116054,290562,Germany
+2021,3,Surgical Mask,PPE,9018.27,50297,132092,Brazil
+2021,3,Face Shield,PPE,9018.63,142268,265973,China
+2021,3,Gloves,PPE,9018.80,22511,53394,China
+2021,3,Syringe,Injection,9018.45,213880,25590,France
+2021,3,Needle,Injection,9018.93,284451,222522,Brazil
+2021,3,IV Set,Injection,9018.33,429878,87182,India
+2021,3,Pulse Oximeter,Monitoring,9018.36,209604,129143,Japan
+2021,3,ECG Monitor,Monitoring,9018.46,426518,171787,China
+2021,3,Thermometer,Monitoring,9018.41,413930,237958,Japan
+2021,4,Ventilator,Respiratory,9018.17,59613,291014,France
+2021,4,Oxygen Mask,Respiratory,9018.41,245163,181277,Brazil
+2021,4,CPAP Machine,Respiratory,9018.59,308497,176137,France
+2021,4,X-Ray Machine,Imaging,9018.71,29486,274733,China
+2021,4,MRI Scanner,Imaging,9018.17,481282,92503,Germany
+2021,4,Ultrasound,Imaging,9018.68,476025,120308,Germany
+2021,4,Surgical Mask,PPE,9018.32,25804,170073,China
+2021,4,Face Shield,PPE,9018.36,86526,228090,Brazil
+2021,4,Gloves,PPE,9018.72,268925,222011,China
+2021,4,Syringe,Injection,9018.58,326148,294008,France
+2021,4,Needle,Injection,9018.36,109210,158796,China
+2021,4,IV Set,Injection,9018.20,123224,174097,Brazil
+2021,4,Pulse Oximeter,Monitoring,9018.54,408603,131149,USA
+2021,4,ECG Monitor,Monitoring,9018.48,388989,233548,USA
+2021,4,Thermometer,Monitoring,9018.46,112411,285112,Japan
+2021,5,Ventilator,Respiratory,9018.53,316346,199888,India
+2021,5,Oxygen Mask,Respiratory,9018.16,396383,87952,India
+2021,5,CPAP Machine,Respiratory,9018.89,25729,41948,France
+2021,5,X-Ray Machine,Imaging,9018.57,245257,72489,China
+2021,5,MRI Scanner,Imaging,9018.28,76573,119004,Brazil
+2021,5,Ultrasound,Imaging,9018.92,91777,189208,India
+2021,5,Surgical Mask,PPE,9018.76,126394,192255,USA
+2021,5,Face Shield,PPE,9018.96,90538,107325,Japan
+2021,5,Gloves,PPE,9018.77,276217,115550,India
+2021,5,Syringe,Injection,9018.44,421728,244935,Brazil
+2021,5,Needle,Injection,9018.13,30051,69532,France
+2021,5,IV Set,Injection,9018.49,116576,169193,Brazil
+2021,5,Pulse Oximeter,Monitoring,9018.79,461336,255589,Germany
+2021,5,ECG Monitor,Monitoring,9018.93,171798,235767,China
+2021,5,Thermometer,Monitoring,9018.85,349329,124872,Japan
+2021,6,Ventilator,Respiratory,9018.63,201461,291422,France
+2021,6,Oxygen Mask,Respiratory,9018.77,376216,169724,France
+2021,6,CPAP Machine,Respiratory,9018.78,108669,21784,Japan
+2021,6,X-Ray Machine,Imaging,9018.67,141004,6154,USA
+2021,6,MRI Scanner,Imaging,9018.53,117888,13907,USA
+2021,6,Ultrasound,Imaging,9018.20,242496,275012,China
+2021,6,Surgical Mask,PPE,9018.40,385372,169268,Japan
+2021,6,Face Shield,PPE,9018.47,215734,78906,China
+2021,6,Gloves,PPE,9018.64,282808,116556,Japan
+2021,6,Syringe,Injection,9018.32,17349,297107,Germany
+2021,6,Needle,Injection,9018.60,169715,26736,USA
+2021,6,IV Set,Injection,9018.51,349374,66410,India
+2021,6,Pulse Oximeter,Monitoring,9018.86,479064,247315,Japan
+2021,6,ECG Monitor,Monitoring,9018.49,63789,37195,Germany
+2021,6,Thermometer,Monitoring,9018.89,307322,189447,Brazil
+2021,7,Ventilator,Respiratory,9018.44,93866,185393,USA
+2021,7,Oxygen Mask,Respiratory,9018.64,100396,92317,China
+2021,7,CPAP Machine,Respiratory,9018.94,354604,137606,Germany
+2021,7,X-Ray Machine,Imaging,9018.47,22040,59946,Brazil
+2021,7,MRI Scanner,Imaging,9018.37,194858,143324,Germany
+2021,7,Ultrasound,Imaging,9018.65,185137,94174,USA
+2021,7,Surgical Mask,PPE,9018.23,284330,237861,USA
+2021,7,Face Shield,PPE,9018.42,29707,109543,USA
+2021,7,Gloves,PPE,9018.81,60396,223167,USA
+2021,7,Syringe,Injection,9018.19,81544,16911,India
+2021,7,Needle,Injection,9018.57,466328,99436,USA
+2021,7,IV Set,Injection,9018.85,206675,61892,Brazil
+2021,7,Pulse Oximeter,Monitoring,9018.40,327173,87690,France
+2021,7,ECG Monitor,Monitoring,9018.96,327536,192397,China
+2021,7,Thermometer,Monitoring,9018.52,130093,276524,India
+2021,8,Ventilator,Respiratory,9018.35,316718,12235,USA
+2021,8,Oxygen Mask,Respiratory,9018.70,392073,20943,China
+2021,8,CPAP Machine,Respiratory,9018.21,113331,228746,India
+2021,8,X-Ray Machine,Imaging,9018.14,432798,230267,India
+2021,8,MRI Scanner,Imaging,9018.48,38561,230107,Japan
+2021,8,Ultrasound,Imaging,9018.59,165344,109285,China
+2021,8,Surgical Mask,PPE,9018.30,103632,143615,Japan
+2021,8,Face Shield,PPE,9018.39,410327,299215,France
+2021,8,Gloves,PPE,9018.39,156070,225144,China
+2021,8,Syringe,Injection,9018.20,270008,109106,China
+2021,8,Needle,Injection,9018.22,219072,81216,Brazil
+2021,8,IV Set,Injection,9018.55,451077,200772,Japan
+2021,8,Pulse Oximeter,Monitoring,9018.31,297079,201124,India
+2021,8,ECG Monitor,Monitoring,9018.87,158560,143836,Germany
+2021,8,Thermometer,Monitoring,9018.37,481158,75020,France
+2021,9,Ventilator,Respiratory,9018.37,312067,168378,France
+2021,9,Oxygen Mask,Respiratory,9018.62,62398,143043,Japan
+2021,9,CPAP Machine,Respiratory,9018.70,278294,70002,Japan
+2021,9,X-Ray Machine,Imaging,9018.86,98598,248226,Germany
+2021,9,MRI Scanner,Imaging,9018.87,49363,213007,USA
+2021,9,Ultrasound,Imaging,9018.83,105816,85159,France
+2021,9,Surgical Mask,PPE,9018.41,108884,159663,Japan
+2021,9,Face Shield,PPE,9018.40,333185,42562,China
+2021,9,Gloves,PPE,9018.71,386567,287622,USA
+2021,9,Syringe,Injection,9018.11,213081,203236,Brazil
+2021,9,Needle,Injection,9018.90,331208,18578,India
+2021,9,IV Set,Injection,9018.53,154152,71781,Brazil
+2021,9,Pulse Oximeter,Monitoring,9018.29,312912,29183,France
+2021,9,ECG Monitor,Monitoring,9018.80,351267,278667,Brazil
+2021,9,Thermometer,Monitoring,9018.56,437850,117520,Brazil
+2021,10,Ventilator,Respiratory,9018.92,496238,281429,Japan
+2021,10,Oxygen Mask,Respiratory,9018.81,93216,296303,Japan
+2021,10,CPAP Machine,Respiratory,9018.65,107843,253491,Brazil
+2021,10,X-Ray Machine,Imaging,9018.75,412961,238158,USA
+2021,10,MRI Scanner,Imaging,9018.33,424014,150474,USA
+2021,10,Ultrasound,Imaging,9018.92,286877,132566,Japan
+2021,10,Surgical Mask,PPE,9018.98,279843,113730,USA
+2021,10,Face Shield,PPE,9018.33,286520,158616,Japan
+2021,10,Gloves,PPE,9018.69,410913,79302,Brazil
+2021,10,Syringe,Injection,9018.16,69767,87679,India
+2021,10,Needle,Injection,9018.27,180424,104364,USA
+2021,10,IV Set,Injection,9018.27,303018,88934,France
+2021,10,Pulse Oximeter,Monitoring,9018.31,196589,187051,Germany
+2021,10,ECG Monitor,Monitoring,9018.38,325144,255064,Germany
+2021,10,Thermometer,Monitoring,9018.39,46935,194668,Germany
+2021,11,Ventilator,Respiratory,9018.36,457976,60165,India
+2021,11,Oxygen Mask,Respiratory,9018.69,33161,99230,India
+2021,11,CPAP Machine,Respiratory,9018.89,433087,147963,China
+2021,11,X-Ray Machine,Imaging,9018.90,472501,156597,France
+2021,11,MRI Scanner,Imaging,9018.79,427293,127546,Japan
+2021,11,Ultrasound,Imaging,9018.46,468825,65174,Brazil
+2021,11,Surgical Mask,PPE,9018.15,56346,28783,India
+2021,11,Face Shield,PPE,9018.71,63147,191330,France
+2021,11,Gloves,PPE,9018.69,160951,241770,Brazil
+2021,11,Syringe,Injection,9018.78,238460,15418,India
+2021,11,Needle,Injection,9018.84,210238,110175,Japan
+2021,11,IV Set,Injection,9018.50,27808,263713,Brazil
+2021,11,Pulse Oximeter,Monitoring,9018.28,326886,33921,India
+2021,11,ECG Monitor,Monitoring,9018.53,23643,122046,China
+2021,11,Thermometer,Monitoring,9018.43,233115,264911,USA
+2021,12,Ventilator,Respiratory,9018.41,304455,295038,Germany
+2021,12,Oxygen Mask,Respiratory,9018.74,340007,62529,USA
+2021,12,CPAP Machine,Respiratory,9018.61,198626,55443,Brazil
+2021,12,X-Ray Machine,Imaging,9018.57,486466,138652,Germany
+2021,12,MRI Scanner,Imaging,9018.64,153953,190915,France
+2021,12,Ultrasound,Imaging,9018.86,184310,102838,France
+2021,12,Surgical Mask,PPE,9018.52,368069,245636,China
+2021,12,Face Shield,PPE,9018.57,426563,225943,Germany
+2021,12,Gloves,PPE,9018.10,41054,272966,France
+2021,12,Syringe,Injection,9018.45,397809,154269,USA
+2021,12,Needle,Injection,9018.83,159713,54704,India
+2021,12,IV Set,Injection,9018.36,319332,262102,India
+2021,12,Pulse Oximeter,Monitoring,9018.93,173633,218571,USA
+2021,12,ECG Monitor,Monitoring,9018.82,245595,296684,China
+2021,12,Thermometer,Monitoring,9018.76,365641,118623,China
+2022,1,Ventilator,Respiratory,9018.44,458946,65149,India
+2022,1,Oxygen Mask,Respiratory,9018.92,100465,154653,China
+2022,1,CPAP Machine,Respiratory,9018.25,78147,270854,France
+2022,1,X-Ray Machine,Imaging,9018.18,207665,268611,India
+2022,1,MRI Scanner,Imaging,9018.39,135146,256261,Brazil
+2022,1,Ultrasound,Imaging,9018.95,285051,62032,USA
+2022,1,Surgical Mask,PPE,9018.83,201086,192927,USA
+2022,1,Face Shield,PPE,9018.92,406301,21592,Brazil
+2022,1,Gloves,PPE,9018.52,411682,141673,Germany
+2022,1,Syringe,Injection,9018.22,49252,179007,Germany
+2022,1,Needle,Injection,9018.17,336744,109299,Brazil
+2022,1,IV Set,Injection,9018.37,123405,244279,China
+2022,1,Pulse Oximeter,Monitoring,9018.55,474576,138283,India
+2022,1,ECG Monitor,Monitoring,9018.59,115177,75081,France
+2022,1,Thermometer,Monitoring,9018.67,493703,123436,Japan
+2022,2,Ventilator,Respiratory,9018.83,235844,18840,USA
+2022,2,Oxygen Mask,Respiratory,9018.75,332287,156915,USA
+2022,2,CPAP Machine,Respiratory,9018.29,338081,133568,Germany
+2022,2,X-Ray Machine,Imaging,9018.61,176018,109140,France
+2022,2,MRI Scanner,Imaging,9018.33,472151,202282,France
+2022,2,Ultrasound,Imaging,9018.39,253954,257554,Japan
+2022,2,Surgical Mask,PPE,9018.62,341335,204930,USA
+2022,2,Face Shield,PPE,9018.89,397634,108260,France
+2022,2,Gloves,PPE,9018.75,495936,129415,China
+2022,2,Syringe,Injection,9018.82,349893,116954,France
+2022,2,Needle,Injection,9018.41,472463,287963,Germany
+2022,2,IV Set,Injection,9018.45,263362,236790,Brazil
+2022,2,Pulse Oximeter,Monitoring,9018.96,64315,267264,India
+2022,2,ECG Monitor,Monitoring,9018.25,279130,270701,India
+2022,2,Thermometer,Monitoring,9018.64,173052,67500,USA
+2022,3,Ventilator,Respiratory,9018.33,46351,258044,France
+2022,3,Oxygen Mask,Respiratory,9018.74,396467,176814,India
+2022,3,CPAP Machine,Respiratory,9018.99,498570,232352,USA
+2022,3,X-Ray Machine,Imaging,9018.65,422658,94018,France
+2022,3,MRI Scanner,Imaging,9018.97,238511,218688,Japan
+2022,3,Ultrasound,Imaging,9018.48,327633,34392,India
+2022,3,Surgical Mask,PPE,9018.47,484089,250938,China
+2022,3,Face Shield,PPE,9018.22,239155,229955,USA
+2022,3,Gloves,PPE,9018.36,259872,162011,India
+2022,3,Syringe,Injection,9018.95,115616,204360,USA
+2022,3,Needle,Injection,9018.58,467867,157086,Germany
+2022,3,IV Set,Injection,9018.22,353106,55889,Brazil
+2022,3,Pulse Oximeter,Monitoring,9018.38,70674,235073,USA
+2022,3,ECG Monitor,Monitoring,9018.81,97240,233260,Germany
+2022,3,Thermometer,Monitoring,9018.35,350408,128979,China
+2022,4,Ventilator,Respiratory,9018.58,171362,280274,France
+2022,4,Oxygen Mask,Respiratory,9018.40,48810,228542,India
+2022,4,CPAP Machine,Respiratory,9018.33,312143,284822,China
+2022,4,X-Ray Machine,Imaging,9018.62,488798,5144,Germany
+2022,4,MRI Scanner,Imaging,9018.56,341199,100484,India
+2022,4,Ultrasound,Imaging,9018.24,239612,34810,Germany
+2022,4,Surgical Mask,PPE,9018.92,269528,121469,USA
+2022,4,Face Shield,PPE,9018.24,213876,199685,India
+2022,4,Gloves,PPE,9018.22,73126,258201,China
+2022,4,Syringe,Injection,9018.42,317432,84808,China
+2022,4,Needle,Injection,9018.31,269966,270720,Brazil
+2022,4,IV Set,Injection,9018.87,66082,83959,France
+2022,4,Pulse Oximeter,Monitoring,9018.22,304800,181381,India
+2022,4,ECG Monitor,Monitoring,9018.24,340710,211000,Japan
+2022,4,Thermometer,Monitoring,9018.38,269380,233294,Brazil
+2022,5,Ventilator,Respiratory,9018.10,430475,161309,Germany
+2022,5,Oxygen Mask,Respiratory,9018.13,426887,149578,Japan
+2022,5,CPAP Machine,Respiratory,9018.45,488381,251346,Brazil
+2022,5,X-Ray Machine,Imaging,9018.74,107423,98263,France
+2022,5,MRI Scanner,Imaging,9018.50,236487,245378,India
+2022,5,Ultrasound,Imaging,9018.57,144032,131303,France
+2022,5,Surgical Mask,PPE,9018.69,467859,194104,China
+2022,5,Face Shield,PPE,9018.31,153576,192496,China
+2022,5,Gloves,PPE,9018.53,167571,216048,Japan
+2022,5,Syringe,Injection,9018.10,77053,269245,India
+2022,5,Needle,Injection,9018.42,439040,225044,France
+2022,5,IV Set,Injection,9018.51,53798,299474,USA
+2022,5,Pulse Oximeter,Monitoring,9018.62,65936,68035,Japan
+2022,5,ECG Monitor,Monitoring,9018.96,472224,165994,India
+2022,5,Thermometer,Monitoring,9018.16,403519,14747,Japan
+2022,6,Ventilator,Respiratory,9018.69,477595,91492,France
+2022,6,Oxygen Mask,Respiratory,9018.11,325141,252038,Japan
+2022,6,CPAP Machine,Respiratory,9018.95,67301,72225,China
+2022,6,X-Ray Machine,Imaging,9018.88,125486,231959,Germany
+2022,6,MRI Scanner,Imaging,9018.59,404449,179513,India
+2022,6,Ultrasound,Imaging,9018.11,167172,173977,India
+2022,6,Surgical Mask,PPE,9018.62,21978,163726,Brazil
+2022,6,Face Shield,PPE,9018.18,21156,106173,China
+2022,6,Gloves,PPE,9018.65,256328,219468,France
+2022,6,Syringe,Injection,9018.82,156184,164693,France
+2022,6,Needle,Injection,9018.88,390093,151905,China
+2022,6,IV Set,Injection,9018.31,88763,225552,Japan
+2022,6,Pulse Oximeter,Monitoring,9018.23,273692,8846,India
+2022,6,ECG Monitor,Monitoring,9018.25,124698,43067,Germany
+2022,6,Thermometer,Monitoring,9018.36,63486,252179,Germany
+2022,7,Ventilator,Respiratory,9018.18,237801,172305,China
+2022,7,Oxygen Mask,Respiratory,9018.60,385518,159353,France
+2022,7,CPAP Machine,Respiratory,9018.12,110045,183640,Japan
+2022,7,X-Ray Machine,Imaging,9018.52,386276,37979,Germany
+2022,7,MRI Scanner,Imaging,9018.82,157158,111717,USA
+2022,7,Ultrasound,Imaging,9018.33,67462,81353,Japan
+2022,7,Surgical Mask,PPE,9018.99,44855,254124,USA
+2022,7,Face Shield,PPE,9018.38,172983,261581,China
+2022,7,Gloves,PPE,9018.65,283878,33851,China
+2022,7,Syringe,Injection,9018.90,103047,83158,India
+2022,7,Needle,Injection,9018.23,82441,65296,Japan
+2022,7,IV Set,Injection,9018.89,322694,140358,Japan
+2022,7,Pulse Oximeter,Monitoring,9018.86,404001,50373,China
+2022,7,ECG Monitor,Monitoring,9018.23,296265,246277,India
+2022,7,Thermometer,Monitoring,9018.20,444242,225694,USA
+2022,8,Ventilator,Respiratory,9018.22,214933,163115,Germany
+2022,8,Oxygen Mask,Respiratory,9018.25,172236,279704,USA
+2022,8,CPAP Machine,Respiratory,9018.21,207924,46914,France
+2022,8,X-Ray Machine,Imaging,9018.64,335893,57713,Brazil
+2022,8,MRI Scanner,Imaging,9018.72,263206,227028,USA
+2022,8,Ultrasound,Imaging,9018.26,392398,163700,India
+2022,8,Surgical Mask,PPE,9018.24,80396,67319,Japan
+2022,8,Face Shield,PPE,9018.26,141188,37124,USA
+2022,8,Gloves,PPE,9018.92,376383,235687,France
+2022,8,Syringe,Injection,9018.25,451104,39113,USA
+2022,8,Needle,Injection,9018.41,39554,206006,USA
+2022,8,IV Set,Injection,9018.87,25152,90888,France
+2022,8,Pulse Oximeter,Monitoring,9018.48,135097,203606,Japan
+2022,8,ECG Monitor,Monitoring,9018.15,396859,180131,China
+2022,8,Thermometer,Monitoring,9018.63,124068,117928,France
+2022,9,Ventilator,Respiratory,9018.44,37137,121567,China
+2022,9,Oxygen Mask,Respiratory,9018.66,46770,35041,USA
+2022,9,CPAP Machine,Respiratory,9018.49,71875,206512,India
+2022,9,X-Ray Machine,Imaging,9018.60,24409,247691,Japan
+2022,9,MRI Scanner,Imaging,9018.81,305937,173815,Germany
+2022,9,Ultrasound,Imaging,9018.98,403574,162400,USA
+2022,9,Surgical Mask,PPE,9018.42,115198,51714,Japan
+2022,9,Face Shield,PPE,9018.83,405077,119043,Japan
+2022,9,Gloves,PPE,9018.28,336322,157630,Brazil
+2022,9,Syringe,Injection,9018.46,334933,100526,USA
+2022,9,Needle,Injection,9018.94,488785,38000,China
+2022,9,IV Set,Injection,9018.72,93077,269609,Brazil
+2022,9,Pulse Oximeter,Monitoring,9018.84,480684,22085,France
+2022,9,ECG Monitor,Monitoring,9018.50,378416,204938,Germany
+2022,9,Thermometer,Monitoring,9018.30,379387,271951,USA
+2022,10,Ventilator,Respiratory,9018.40,429264,224739,Brazil
+2022,10,Oxygen Mask,Respiratory,9018.67,432853,130846,France
+2022,10,CPAP Machine,Respiratory,9018.64,245523,98993,China
+2022,10,X-Ray Machine,Imaging,9018.20,131041,215275,Germany
+2022,10,MRI Scanner,Imaging,9018.65,361683,292423,France
+2022,10,Ultrasound,Imaging,9018.12,375777,243498,India
+2022,10,Surgical Mask,PPE,9018.74,118443,70901,Japan
+2022,10,Face Shield,PPE,9018.43,111075,58001,USA
+2022,10,Gloves,PPE,9018.18,149811,284914,Japan
+2022,10,Syringe,Injection,9018.64,58506,173741,Germany
+2022,10,Needle,Injection,9018.68,374438,274077,China
+2022,10,IV Set,Injection,9018.34,456388,91653,China
+2022,10,Pulse Oximeter,Monitoring,9018.63,205456,137925,India
+2022,10,ECG Monitor,Monitoring,9018.26,344129,180651,India
+2022,10,Thermometer,Monitoring,9018.20,318338,254160,Japan
+2022,11,Ventilator,Respiratory,9018.80,174241,67668,France
+2022,11,Oxygen Mask,Respiratory,9018.19,312231,30714,Japan
+2022,11,CPAP Machine,Respiratory,9018.79,94346,151686,India
+2022,11,X-Ray Machine,Imaging,9018.49,163366,91996,Germany
+2022,11,MRI Scanner,Imaging,9018.19,240224,14619,Germany
+2022,11,Ultrasound,Imaging,9018.94,125729,271938,China
+2022,11,Surgical Mask,PPE,9018.95,373929,184154,Germany
+2022,11,Face Shield,PPE,9018.66,376352,200003,USA
+2022,11,Gloves,PPE,9018.56,380193,267620,China
+2022,11,Syringe,Injection,9018.70,196646,101638,Germany
+2022,11,Needle,Injection,9018.14,347590,186788,Brazil
+2022,11,IV Set,Injection,9018.37,491414,109505,India
+2022,11,Pulse Oximeter,Monitoring,9018.91,213967,72708,USA
+2022,11,ECG Monitor,Monitoring,9018.16,351323,229283,China
+2022,11,Thermometer,Monitoring,9018.57,204708,62377,Japan
+2022,12,Ventilator,Respiratory,9018.21,396681,108030,France
+2022,12,Oxygen Mask,Respiratory,9018.97,276133,254723,Germany
+2022,12,CPAP Machine,Respiratory,9018.82,422799,83765,Germany
+2022,12,X-Ray Machine,Imaging,9018.14,379918,78794,France
+2022,12,MRI Scanner,Imaging,9018.28,427273,62446,Germany
+2022,12,Ultrasound,Imaging,9018.93,129476,11602,India
+2022,12,Surgical Mask,PPE,9018.63,440601,31021,Brazil
+2022,12,Face Shield,PPE,9018.14,151066,31020,Brazil
+2022,12,Gloves,PPE,9018.54,487753,241861,India
+2022,12,Syringe,Injection,9018.12,401917,214221,USA
+2022,12,Needle,Injection,9018.15,158940,40708,India
+2022,12,IV Set,Injection,9018.99,254850,287797,Japan
+2022,12,Pulse Oximeter,Monitoring,9018.68,412538,71898,USA
+2022,12,ECG Monitor,Monitoring,9018.62,321007,148831,Brazil
+2022,12,Thermometer,Monitoring,9018.13,53406,292143,France
+2023,1,Ventilator,Respiratory,9018.93,211565,27577,France
+2023,1,Oxygen Mask,Respiratory,9018.27,250317,217031,Germany
+2023,1,CPAP Machine,Respiratory,9018.59,63407,259482,Germany
+2023,1,X-Ray Machine,Imaging,9018.46,189760,293944,France
+2023,1,MRI Scanner,Imaging,9018.17,298114,234146,France
+2023,1,Ultrasound,Imaging,9018.77,341620,149471,India
+2023,1,Surgical Mask,PPE,9018.31,428473,249876,Japan
+2023,1,Face Shield,PPE,9018.38,471935,288308,Japan
+2023,1,Gloves,PPE,9018.54,447749,243306,India
+2023,1,Syringe,Injection,9018.98,376852,260892,USA
+2023,1,Needle,Injection,9018.75,176257,37758,Japan
+2023,1,IV Set,Injection,9018.73,320111,72150,India
+2023,1,Pulse Oximeter,Monitoring,9018.85,28241,129575,USA
+2023,1,ECG Monitor,Monitoring,9018.27,101933,168424,USA
+2023,1,Thermometer,Monitoring,9018.83,352574,36665,Japan
+2023,2,Ventilator,Respiratory,9018.45,456049,77152,India
+2023,2,Oxygen Mask,Respiratory,9018.43,158381,11124,India
+2023,2,CPAP Machine,Respiratory,9018.25,272671,133502,Brazil
+2023,2,X-Ray Machine,Imaging,9018.49,242297,277735,Germany
+2023,2,MRI Scanner,Imaging,9018.15,82030,210858,Brazil
+2023,2,Ultrasound,Imaging,9018.94,490964,86921,Brazil
+2023,2,Surgical Mask,PPE,9018.83,317257,292251,France
+2023,2,Face Shield,PPE,9018.54,98937,139178,USA
+2023,2,Gloves,PPE,9018.61,97558,27629,India
+2023,2,Syringe,Injection,9018.82,50652,8652,Germany
+2023,2,Needle,Injection,9018.54,56591,110197,USA
+2023,2,IV Set,Injection,9018.51,219403,144786,India
+2023,2,Pulse Oximeter,Monitoring,9018.59,373256,253722,Japan
+2023,2,ECG Monitor,Monitoring,9018.76,204953,264352,Japan
+2023,2,Thermometer,Monitoring,9018.19,353732,279375,Japan
+2023,3,Ventilator,Respiratory,9018.30,87849,61339,Germany
+2023,3,Oxygen Mask,Respiratory,9018.99,494539,292999,Japan
+2023,3,CPAP Machine,Respiratory,9018.38,319129,33862,France
+2023,3,X-Ray Machine,Imaging,9018.64,51443,229497,USA
+2023,3,MRI Scanner,Imaging,9018.28,495728,281018,Brazil
+2023,3,Ultrasound,Imaging,9018.31,226722,120520,Brazil
+2023,3,Surgical Mask,PPE,9018.65,434678,177357,France
+2023,3,Face Shield,PPE,9018.39,417569,33930,Japan
+2023,3,Gloves,PPE,9018.28,412801,56516,Japan
+2023,3,Syringe,Injection,9018.52,334177,114131,India
+2023,3,Needle,Injection,9018.22,298402,10275,China
+2023,3,IV Set,Injection,9018.66,281949,39390,China
+2023,3,Pulse Oximeter,Monitoring,9018.78,494038,21742,Japan
+2023,3,ECG Monitor,Monitoring,9018.66,387056,277816,Brazil
+2023,3,Thermometer,Monitoring,9018.66,122151,44838,China
+2023,4,Ventilator,Respiratory,9018.91,204826,214681,France
+2023,4,Oxygen Mask,Respiratory,9018.89,421696,192392,Brazil
+2023,4,CPAP Machine,Respiratory,9018.35,439065,38264,Japan
+2023,4,X-Ray Machine,Imaging,9018.80,204109,290131,USA
+2023,4,MRI Scanner,Imaging,9018.81,413773,108209,France
+2023,4,Ultrasound,Imaging,9018.12,468228,37046,China
+2023,4,Surgical Mask,PPE,9018.39,466852,213187,India
+2023,4,Face Shield,PPE,9018.56,68038,231401,Japan
+2023,4,Gloves,PPE,9018.98,474681,235350,Japan
+2023,4,Syringe,Injection,9018.67,114354,90896,China
+2023,4,Needle,Injection,9018.38,174875,141047,India
+2023,4,IV Set,Injection,9018.50,120354,285484,Japan
+2023,4,Pulse Oximeter,Monitoring,9018.38,250616,17366,China
+2023,4,ECG Monitor,Monitoring,9018.37,133184,181131,India
+2023,4,Thermometer,Monitoring,9018.39,333776,254298,China
+2023,5,Ventilator,Respiratory,9018.17,233955,167160,France
+2023,5,Oxygen Mask,Respiratory,9018.83,451783,176235,Germany
+2023,5,CPAP Machine,Respiratory,9018.54,96572,257697,USA
+2023,5,X-Ray Machine,Imaging,9018.44,138343,85929,USA
+2023,5,MRI Scanner,Imaging,9018.46,244143,141034,China
+2023,5,Ultrasound,Imaging,9018.65,433815,223278,Japan
+2023,5,Surgical Mask,PPE,9018.20,252081,218462,Brazil
+2023,5,Face Shield,PPE,9018.13,147624,253483,Brazil
+2023,5,Gloves,PPE,9018.48,362660,145359,Brazil
+2023,5,Syringe,Injection,9018.55,491007,114164,Germany
+2023,5,Needle,Injection,9018.50,312344,34741,France
+2023,5,IV Set,Injection,9018.19,356643,290400,Japan
+2023,5,Pulse Oximeter,Monitoring,9018.20,125805,248787,USA
+2023,5,ECG Monitor,Monitoring,9018.66,180946,27626,Germany
+2023,5,Thermometer,Monitoring,9018.83,340176,23022,China
+2023,6,Ventilator,Respiratory,9018.35,165235,233134,Brazil
+2023,6,Oxygen Mask,Respiratory,9018.41,233396,209994,France
+2023,6,CPAP Machine,Respiratory,9018.11,355627,212943,Japan
+2023,6,X-Ray Machine,Imaging,9018.11,324781,80953,India
+2023,6,MRI Scanner,Imaging,9018.68,271845,73589,India
+2023,6,Ultrasound,Imaging,9018.86,472121,33550,China
+2023,6,Surgical Mask,PPE,9018.82,412126,144768,France
+2023,6,Face Shield,PPE,9018.31,253843,57834,China
+2023,6,Gloves,PPE,9018.54,392273,221457,France
+2023,6,Syringe,Injection,9018.18,134448,49252,India
+2023,6,Needle,Injection,9018.29,58838,50416,France
+2023,6,IV Set,Injection,9018.82,493710,73304,Germany
+2023,6,Pulse Oximeter,Monitoring,9018.72,211908,297285,India
+2023,6,ECG Monitor,Monitoring,9018.11,265570,247042,USA
+2023,6,Thermometer,Monitoring,9018.22,76839,216028,India
+2023,7,Ventilator,Respiratory,9018.13,192569,296008,France
+2023,7,Oxygen Mask,Respiratory,9018.60,139162,68593,USA
+2023,7,CPAP Machine,Respiratory,9018.28,270001,10835,Japan
+2023,7,X-Ray Machine,Imaging,9018.88,480977,237508,Brazil
+2023,7,MRI Scanner,Imaging,9018.73,144634,262847,Germany
+2023,7,Ultrasound,Imaging,9018.41,451733,67805,Germany
+2023,7,Surgical Mask,PPE,9018.65,127853,64558,Germany
+2023,7,Face Shield,PPE,9018.77,198465,278656,France
+2023,7,Gloves,PPE,9018.70,274865,288642,China
+2023,7,Syringe,Injection,9018.80,205408,255751,China
+2023,7,Needle,Injection,9018.36,67058,135755,India
+2023,7,IV Set,Injection,9018.42,151057,175441,Japan
+2023,7,Pulse Oximeter,Monitoring,9018.86,329446,217547,India
+2023,7,ECG Monitor,Monitoring,9018.71,144814,48170,Japan
+2023,7,Thermometer,Monitoring,9018.72,151409,147464,Japan
+2023,8,Ventilator,Respiratory,9018.27,427629,194794,India
+2023,8,Oxygen Mask,Respiratory,9018.24,484091,30272,France
+2023,8,CPAP Machine,Respiratory,9018.72,151988,65544,Germany
+2023,8,X-Ray Machine,Imaging,9018.42,102491,299532,Germany
+2023,8,MRI Scanner,Imaging,9018.72,214371,24987,India
+2023,8,Ultrasound,Imaging,9018.52,98395,236956,France
+2023,8,Surgical Mask,PPE,9018.89,236564,106812,Japan
+2023,8,Face Shield,PPE,9018.58,318628,123080,China
+2023,8,Gloves,PPE,9018.66,476895,8772,France
+2023,8,Syringe,Injection,9018.13,125616,239428,Japan
+2023,8,Needle,Injection,9018.71,66664,241736,Japan
+2023,8,IV Set,Injection,9018.27,379507,128077,Germany
+2023,8,Pulse Oximeter,Monitoring,9018.29,88153,117539,India
+2023,8,ECG Monitor,Monitoring,9018.40,261546,196299,USA
+2023,8,Thermometer,Monitoring,9018.45,316776,105922,Brazil
+2023,9,Ventilator,Respiratory,9018.46,463994,114286,India
+2023,9,Oxygen Mask,Respiratory,9018.82,202064,156379,Japan
+2023,9,CPAP Machine,Respiratory,9018.64,389096,114719,France
+2023,9,X-Ray Machine,Imaging,9018.35,88381,54650,Germany
+2023,9,MRI Scanner,Imaging,9018.57,383943,267229,India
+2023,9,Ultrasound,Imaging,9018.12,103676,116410,France
+2023,9,Surgical Mask,PPE,9018.10,68578,203007,Japan
+2023,9,Face Shield,PPE,9018.80,408671,146545,Brazil
+2023,9,Gloves,PPE,9018.81,47008,136855,Japan
+2023,9,Syringe,Injection,9018.28,23937,229519,Brazil
+2023,9,Needle,Injection,9018.51,431153,213217,France
+2023,9,IV Set,Injection,9018.47,116437,207121,France
+2023,9,Pulse Oximeter,Monitoring,9018.18,109525,121275,China
+2023,9,ECG Monitor,Monitoring,9018.73,247445,181920,Japan
+2023,9,Thermometer,Monitoring,9018.39,66593,163684,India
+2023,10,Ventilator,Respiratory,9018.12,139032,25090,Brazil
+2023,10,Oxygen Mask,Respiratory,9018.97,174549,14925,India
+2023,10,CPAP Machine,Respiratory,9018.61,236549,206709,Japan
+2023,10,X-Ray Machine,Imaging,9018.69,177242,170702,Germany
+2023,10,MRI Scanner,Imaging,9018.54,483703,290408,Brazil
+2023,10,Ultrasound,Imaging,9018.19,247791,194822,Brazil
+2023,10,Surgical Mask,PPE,9018.68,312572,62959,Brazil
+2023,10,Face Shield,PPE,9018.60,175364,159879,China
+2023,10,Gloves,PPE,9018.51,271534,299091,Japan
+2023,10,Syringe,Injection,9018.97,201374,66522,India
+2023,10,Needle,Injection,9018.97,96129,178657,China
+2023,10,IV Set,Injection,9018.54,458037,111063,Japan
+2023,10,Pulse Oximeter,Monitoring,9018.73,112212,17991,India
+2023,10,ECG Monitor,Monitoring,9018.61,240129,190893,Brazil
+2023,10,Thermometer,Monitoring,9018.63,151744,193107,Japan
+2023,11,Ventilator,Respiratory,9018.42,106944,285791,Germany
+2023,11,Oxygen Mask,Respiratory,9018.46,105354,18307,USA
+2023,11,CPAP Machine,Respiratory,9018.54,128390,177036,USA
+2023,11,X-Ray Machine,Imaging,9018.58,439580,219362,France
+2023,11,MRI Scanner,Imaging,9018.77,456793,163548,France
+2023,11,Ultrasound,Imaging,9018.29,221291,36305,India
+2023,11,Surgical Mask,PPE,9018.73,308978,71433,India
+2023,11,Face Shield,PPE,9018.26,147964,149796,China
+2023,11,Gloves,PPE,9018.43,293581,177296,India
+2023,11,Syringe,Injection,9018.22,472865,105031,France
+2023,11,Needle,Injection,9018.32,187708,295192,Brazil
+2023,11,IV Set,Injection,9018.57,219829,162337,India
+2023,11,Pulse Oximeter,Monitoring,9018.78,344029,250941,Germany
+2023,11,ECG Monitor,Monitoring,9018.20,225051,134521,Japan
+2023,11,Thermometer,Monitoring,9018.21,251805,18006,India
+2023,12,Ventilator,Respiratory,9018.40,308159,133543,China
+2023,12,Oxygen Mask,Respiratory,9018.36,490623,47305,France
+2023,12,CPAP Machine,Respiratory,9018.22,308260,24853,Germany
+2023,12,X-Ray Machine,Imaging,9018.13,452116,6601,Brazil
+2023,12,MRI Scanner,Imaging,9018.56,382018,117921,France
+2023,12,Ultrasound,Imaging,9018.62,263686,139318,India
+2023,12,Surgical Mask,PPE,9018.98,229712,5617,China
+2023,12,Face Shield,PPE,9018.39,375263,279664,Japan
+2023,12,Gloves,PPE,9018.67,411666,140670,India
+2023,12,Syringe,Injection,9018.22,490896,102142,USA
+2023,12,Needle,Injection,9018.16,454418,197381,India
+2023,12,IV Set,Injection,9018.32,225899,146387,Brazil
+2023,12,Pulse Oximeter,Monitoring,9018.46,168767,274269,USA
+2023,12,ECG Monitor,Monitoring,9018.55,55320,190156,Germany
+2023,12,Thermometer,Monitoring,9018.27,232165,65264,USA
